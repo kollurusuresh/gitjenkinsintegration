@@ -1,1 +1,1 @@
-print("I am EPAm")
+print("I am EPAM")
